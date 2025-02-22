@@ -13,3 +13,6 @@ Why? Python is OS agnostic. Does not matter if your are working in Linux, BSD, o
     Only lines containing the specified phrase are written to the output directory.
 	Replace extension type and paths in the script depending on your needs. Add multithreading if performance is of importance VS stealth or background processing.
     ```
+	
+	
+	
