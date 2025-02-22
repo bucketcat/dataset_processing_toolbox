@@ -72,12 +72,12 @@ if __name__ == "__main__":
     phrase = "Word1 word2"
 
     # Input and output directories (use absolute paths)
-    input_dir = /home/<user>/<venv>/<input_folder>
-    output_dir = /home/<user>/<venv>/<output_folder>
+    input_dir = "/home/<user>/<venv>/<input_folder>"
+    output_dir = "/home/<user>/<venv>/<output_folder>"
     
-    # input_dir = "C:/path/to/gigaspeech_metadata/data/"  # Replace for windows
+    # input_dir = "C:\\path\\to\\metadata\\"  # Replace for windows
     
-    # output_dir = "C:/path/to/output/"  # Replace for windows
+    # output_dir = "C:\path\to\output\\"  # Replace for windows
 
     # Set recursive=True to process subdirectories
     process_files(input_dir, output_dir, phrase, recursive=True)
